@@ -1,5 +1,5 @@
 const ssmlTagToEmojiMap = {
-  'speak': ' ', // tallef el speak tag famesh besoin lih ( 5ali string fih espace )
+  'speak': ' ', 
   'break': '😴😴😴',
   'emphasis': '🔍🔍🔍',
   'prosody': '🔊🔊🔊',
